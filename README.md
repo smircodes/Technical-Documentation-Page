@@ -4,7 +4,7 @@
 Welcome to my Technical Documentation Page project! This is an HTML/CSS project that I completed two years ago while following a responsive design tutorial by FreeCodeCamp. The Technical Documentation Page serves as a platform to showcase and organize technical information or documentation, making it easily accessible and readable for users.
 
 ## Demo
-You can view the live demo of the Technical Documentation Page [here](https://aaramiss.github.io/Technical-Documentation-Page/).
+You can view the live demo of the Technical Documentation Page [here](https://smircodes.github.io/Technical-Documentation-Page/).
 
 ## Features
 - ### Responsive Design: 
